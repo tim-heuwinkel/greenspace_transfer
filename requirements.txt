@@ -1,0 +1,229 @@
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+affine==2.3.1
+aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+anyio==3.6.1
+appdirs==1.4.4
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+astor==0.8.1
+asttokens==2.0.5
+astunparse==1.6.3
+async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+Babel==2.10.1
+backcall==0.2.0
+beautifulsoup4==4.11.1
+bleach==5.0.0
+blinker==1.4
+bqplot==0.12.33
+branca==0.5.0
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2022.5.18.1
+cffi @ file:///C:/ci_310/cffi_1642682485096/work
+chardet==3.0.4
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+Click==7.0
+click-plugins==1.1.1
+cligj==0.7.2
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+colour==0.1.5
+cryptography @ file:///C:/ci/cryptography_1633520531101/work
+cycler==0.11.0
+debugpy==1.6.0
+decorator==5.1.1
+defusedxml==0.7.1
+docopt==0.6.2
+earthengine-api==0.1.312
+ee-extra==0.0.13
+efficientnet==1.0.0
+entrypoints==0.4
+executing==0.8.3
+fastjsonschema==2.15.3
+ffmpeg-python==0.2.0
+filelock==3.7.1
+Fiona @ file:///C:/Users/Tim/Downloads/Fiona-1.8.21-cp39-cp39-win_amd64.whl
+flatbuffers @ file:///tmp/build/80754af9/python-flatbuffers_1614345733764/work
+folium==0.12.1.post1
+fonttools==4.33.3
+frozenlist @ file:///C:/ci/frozenlist_1637767271796/work
+future==0.18.2
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+GDAL @ file:///C:/Users/Tim/Downloads/GDAL-3.4.3-cp39-cp39-win_amd64.whl
+gdown==4.4.0
+geeadd==0.5.5
+geemap==0.13.9
+geocoder==1.38.1
+geocube==0.3.1
+geojson==2.5.0
+geomet==0.3.0
+geopandas==0.9.0
+gevent==21.12.0
+google-api-core==2.8.1
+google-api-python-client==1.12.11
+google-auth @ file:///opt/conda/conda-bld/google-auth_1646735974934/work
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.1
+google-cloud-core==2.3.0
+google-cloud-storage==2.3.0
+google-crc32c==1.3.0
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+google-resumable-media==2.3.3
+googleapis-common-protos==1.56.2
+greenlet==1.1.2
+grpcio @ file:///C:/ci/grpcio_1637590978642/work
+h5py @ file:///C:/ci/h5py_1637120894255/work
+html2text==2020.1.16
+httplib2==0.20.4
+httplib2shim==0.0.3
+idna==2.8
+image-classifiers==1.0.0
+imageio==2.19.3
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562621412/work
+ipyevents==2.0.1
+ipyfilechooser==0.6.0
+ipykernel==6.13.1
+ipyleaflet==0.16.0
+ipython==8.4.0
+ipython-genutils==0.2.0
+ipytree==0.2.1
+ipywidgets==7.7.0
+jedi==0.18.1
+Jinja2==3.1.2
+joblib==1.1.0
+json5==0.9.8
+jsonschema==4.6.0
+jupyter==1.0.0
+jupyter-client==7.3.3
+jupyter-console==6.4.3
+jupyter-core==4.10.0
+jupyter-server==1.17.1
+jupyterlab==3.4.3
+jupyterlab-pygments==0.2.2
+jupyterlab-server==2.14.0
+jupyterlab-widgets==1.1.0
+Keras-Applications==1.0.8
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.4.2
+logzero==1.7.0
+mapclassify==2.4.3
+Markdown @ file:///C:/ci/markdown_1614364082838/work
+MarkupSafe==2.1.1
+matplotlib==3.2.2
+matplotlib-inline==0.1.3
+mistune==0.8.4
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+mkl-service==2.4.0
+multidict @ file:///C:/ci/multidict_1607349747897/work
+munch==2.5.0
+nbclassic==0.3.7
+nbclient==0.6.4
+nbconvert==6.5.0
+nbformat==5.4.0
+nest-asyncio==1.5.5
+networkx==2.8.3
+notebook==6.4.12
+notebook-shim==0.1.0
+numpy==1.22.4
+oauthlib @ file:///opt/conda/conda-bld/oauthlib_1644332107998/work
+odc-geo==0.2.0
+ohsome==0.1.0
+ohsome2label==1.1.3
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging==21.3
+pandas==1.4.2
+pandocfilters==1.5.0
+parso==0.8.3
+pickleshare==0.7.5
+Pillow==9.1.1
+plotly==5.8.0
+prometheus-client==0.14.1
+prompt-toolkit==3.0.29
+protobuf==3.17.2
+psutil==5.9.1
+pure-eval==0.2.2
+pyamg==4.2.3
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyCRS==1.0.2
+Pygments==2.12.0
+PyJWT @ file:///C:/ci/pyjwt_1619682721924/work
+pykwalify==1.7.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing==3.0.9
+pyproj @ file:///C:/Users/Tim/Downloads/pyproj-3.3.1-cp39-cp39-win_amd64.whl
+pyreadline==2.1
+pyrsistent==0.18.1
+pyshp==2.3.0
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-box==6.0.2
+python-dateutil==2.8.2
+pytz==2022.1
+PyWavelets==1.3.0
+pywin32==304
+pywinpty==2.0.5
+PyYAML==6.0
+pyzmq==23.1.0
+qtconsole==5.3.1
+QtPy==2.1.0
+rasterio @ file:///C:/Users/Tim/Downloads/rasterio-1.2.10-cp39-cp39-win_amd64.whl
+ratelim==0.1.6
+requests==2.28.0
+requests-oauthlib==1.3.0
+rioxarray==0.11.1
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+Rtree @ file:///C:/Users/Tim/Downloads/Rtree-1.0.0-cp39-cp39-win_amd64.whl
+sankee==0.0.7
+scikit-image==0.19.2
+scikit-learn==1.1.1
+scipy @ file:///C:/ci/scipy_1641555170412/work
+seaborn==0.11.2
+segmentation-models==1.0.1
+Send2Trash==1.8.0
+sentinelsat==1.1.1
+Shapely==1.6.4
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.2.0
+snuggs==1.4.7
+soupsieve==2.3.2.post1
+stack-data==0.2.0
+tenacity==8.0.1
+tensorboard @ file:///tmp/build/80754af9/tensorboard_1633093581375/work/tensorboard-2.6.0-py3-none-any.whl
+tensorboard-data-server @ file:///C:/ci/tensorboard-data-server_1633035225228/work/tensorboard_data_server-0.6.0-py3-none-any.whl
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.6.0
+tensorflow-addons==0.15.0
+tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
+termcolor==1.1.0
+terminado==0.15.0
+threadpoolctl==3.1.0
+tifffile==2022.5.4
+tinycss2==1.1.1
+tornado==6.1
+tqdm==4.38.0
+traitlets==5.2.2.post1
+traittypes==0.2.1
+typeguard==2.13.3
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+uritemplate==3.0.1
+urllib3==1.26.9
+utm==0.7.0
+wcwidth==0.2.5
+webencodings==0.5.1
+websocket-client==1.3.2
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+whitebox==2.1.2
+whiteboxgui==0.7.0
+widgetsnbextension==3.6.0
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+wrapt @ file:///C:/ci/wrapt_1638434068867/work
+xarray==2022.3.0
+xyzservices==2022.4.0
+yarl @ file:///C:/ci/yarl_1606940155993/work
+zipp @ file:///C:/ci/zipp_1652273994994/work
+zope.event==4.5.0
+zope.interface==5.4.0
